@@ -1,0 +1,7 @@
+Cài đặt môi trường
+npm create vite@latest React_Js -- --template react
+npm i
+concurrently npm
+axios 
+react
+react-router-dom
